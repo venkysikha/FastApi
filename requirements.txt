@@ -8,3 +8,6 @@ python-dotenv
 pydantic-settings
 redis
 celery
+PyJWT
+pwdlib[argon2]
+email-validator
